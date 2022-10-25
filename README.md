@@ -5,9 +5,7 @@
 * [launch](#setup)
 
 ## Introduction 
-Introduction is like a summary. It shouldn't be too long as we don't want to read an essay on a project. We should describe in an interesting manner what's the project aim, and what problems does a given application solve. Two or three sentences are enough in case of a small project.
-
-If it's a training project, mention your incentive. Why did you want to create it? To learn a particular technology? Was it a hackathon project? Was it for a non-profit organization? Is it an application created to memorize the material from workshops or and online course? It's worth mentioning here, without a doubt.
+My kids math game was made using the creative coding platfrom Scratch. I chose to use this method as it provided me with excellent entry level skill to the world of coding. This is a trianing project method to teach year 7 kids or individuals with the basic skill level of math. the math presented is aligned with the essential cognitive,moter and other skills across this specifc age group. 
 
 	
 ## Technologies
